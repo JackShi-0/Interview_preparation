@@ -1,0 +1,5 @@
+https://pytorch-cn.readthedocs.io/zh/latest/package_references/torch-nn/
+
+https://cloud.tencent.com/developer/article/1760908
+
+https://pytorch.apachecn.org/docs/1.4/81.html#%E5%9F%BA%E6%9C%AC
